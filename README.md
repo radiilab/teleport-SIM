@@ -1,5 +1,7 @@
 # Quantum
-quantum computer using C++
+==========
+
+quantum computing library using C++
 
 Quantum is a library of functions and classes for simulating the action of a quantum
 computer using C++. It contains two classes - QubitSystem and QuantumGate - that
@@ -15,7 +17,7 @@ limited to applying the action of a unitary quantum gate on the system and
 to design, implement, and test algorithms in a natural way under the constraints
 inherent to quantum computing. 
 
-The QAS library has an extremely compact and intuitive interface, making it easy
+The Quantum library has an extremely compact and intuitive interface, making it easy
 to learn and use for anyone familiar with C++. It fits easily within a larger 
 C++ program, so that mixing classical and quantum programming is effortless. For
 examples of use, see the unit tests in the test/ directory. 
