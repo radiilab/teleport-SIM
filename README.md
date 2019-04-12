@@ -79,9 +79,10 @@ SOFTWARE.
 # Extras
 --------
 
-Contact: adysenlab@gmail.com
+Contact: info@radii.in
 
-[Talk to our dev team](https://join.slack.com/t/adysenlab/shared_invite/enQtNDIwMjkwNDU4NjQ3LTM0ZmQwYmNmNDBlNWJjZTVjOGU0Y2RhYTM2ZjBhNmYzZDEwMjFhMmY5ZDIzYWQ3NjEyYzNkZGI3YWViMzY1NjY)
+this is the shared invite to the channel space at radii corps Holding Bay
+[Talk to our dev team](https://join.slack.com/t/radiilab/shared_invite/enQtNDM3OTIwMTEzMTA5LTRiNjYzNjFlNjgxMmZlYWQyNGE5MmQ2YTNlMWM3M2NiYmI2YmFhM2FlY2IzOWQzMjJmMWZkMWFjMmZhNjMzYzg)
 
 for publications and more products 
-https://adysenlab.github.io/
+https://edu.radii.in/
